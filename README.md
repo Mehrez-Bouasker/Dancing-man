@@ -32,4 +32,8 @@ Now let us first add
 to **AR Session origin** as new components 
 
 ![alt text](./ScreenShots/Components.png)
+
+
+### Creating a placement indicator
+
  
