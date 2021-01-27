@@ -12,7 +12,7 @@ In the package manager (**Window -> Package Manager**) we should install
 - ARFoundation
 - AR Subsystems
 - ARCore XR Plugin
-make sure to also install and import **XR Plugin Management** into your project
+make sure to install the most recent stable version of thesepackages and to also install and import **XR Plugin Management** into your project
 
 ![alt text](./ScreenShots/Plugin.png)
 
@@ -28,14 +28,10 @@ you can follow this [link](https://youtu.be/0mpsiO2lCx0) for a demo of this part
 After setting up we can now add an **ARSession origin** and an **ARSession** and run our application
 
 ## Setting up dancing man application
-Now let us first add 
--AR plane manager (only leaving the horizontal detection mode)
--AR raycast manager
-to **AR Session origin** as new components 
-
-![alt text](./ScreenShots/Components.png)
-
-
-### Creating a placement indicator
+Now you can download the project or the assets of this project with the main scene.
+Build and run the application.
+PS: you can find the apk file of the application in this repo
+this is a phone screenshot of the running application
+![alt text](./Screenshot.jpg)
 
  
